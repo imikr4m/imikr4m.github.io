@@ -6,10 +6,10 @@ author_profile: true
 published: true
 ---
 
-List of my selected peer-reviewed publications (See [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en))
+List of my selected, peer-reviewed publications (See [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en))
 
 
-1.  Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, Sen Chen, **Muhammad Ikram**, Tielei Wang, Haojin Zhu, "*[iOS, Your OS, Everybody's OS: Vetting and Analyzing Network Services of iOS Apps](/files/iOS_Apps_Aulnerabilities_Analysis_Ikram.pdf)*", To appear in the 29th **Usenix Security Symposium (Usenix Security)**, 2020.
+1.  Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, Sen Chen, **Muhammad Ikram**, Tielei Wang, Haojin Zhu, "*iOS, Your OS, Everybody's OS: Vetting and Analyzing Network Services of iOS Apps*", To appear in the 29th **Usenix Security Symposium (Usenix Security)**, 2020.
 
 2.  **Muhammad Ikram**, Rahat Masood, Gareth Tyson, Mohamed Ali Kaafar, Roya Ensafi, "*[Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading](/files/ik_wot_tops_2020.pdf)*", In **ACM Transaction on Privacy and Security (TOPS)**, 2020.
 
@@ -23,7 +23,7 @@ List of my selected peer-reviewed publications (See [Google Scholar](https://sch
 
 7.  **Muhammad Ikram**, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq, "*[Measuring, Characterizing, Detecting Facebook Like Farms*](files/fb_fraud_detection.pdf)*", n **ACM Transaction on Privacy and Security (TOPS)**, 2017.
 
-8.  **Muhammad Ikram** and Mohamed Ali Kaafar, "*[A First Look at Ad Blocking Apps](/files/ikram_mpptools_nca.pdf)*", In **NCA**, 2017. 
+7.  **Muhammad Ikram** and Mohamed Ali Kaafar, "*[A First Look at Ad Blocking Apps](/files/ikram_mpptools_nca.pdf)*", In **NCA**, 2017. 
 
 9.  **Muhammad Ikram**, Hassan Jameel Asghar, Mohamed Ali Kaafar, Balachander Krishnamurthy, and Anirban Mahanti, "*[Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning](/files/pets_tracking.pdf)*", In **PETS**, 2017.
 
