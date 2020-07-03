@@ -248,7 +248,7 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: "dark" # compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
@@ -267,7 +267,11 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+#  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
+#remote_theme : "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
