@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-List of my selected, peer-reviewed publications (See [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en))
+List of my selected, peer-reviewed publications (See [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en) for complete list)
 
 
 1.  Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, Sen Chen, **Muhammad Ikram**, Tielei Wang, Haojin Zhu, "*iOS, Your OS, Everybody's OS: Vetting and Analyzing Network Services of iOS Apps*", To appear in the 29th **Usenix Security Symposium (Usenix Security)**, 2020.
