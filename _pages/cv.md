@@ -18,43 +18,31 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2019 - present: Lecturer in Cybersecurity
+  * Optus Macquarie University Cyber Security Hub
+  * Computing Department, Macquarie University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2018 - October 2019: Postdoctoral Research Fellow
+  * University of Michigan and Macquarie University
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feberuary 2018 - present: Research Scientist
+  * Data61, CSIRO, Sydney, Australia
 
-Publications
+* May 2014 - Feberuary 2018: Research Scientist
+  * Data61, CSIRO, Sydney, Australia
+  
+
+Publications ([Complete List](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en))
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
