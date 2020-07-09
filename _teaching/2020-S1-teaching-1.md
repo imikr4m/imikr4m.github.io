@@ -8,4 +8,4 @@ date: 2020-02-01
 location: "Sydney, Australia"
 ---
 
-I co-taught with Dr. [Alireza Jolfei](https://researchers.mq.edu.au/en/persons/alireza-jolfaei).
+I co-taught with Dr. [Alireza Jolfaei](https://researchers.mq.edu.au/en/persons/alireza-jolfaei).
