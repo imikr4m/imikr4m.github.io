@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electical Engineering, [UNSW](https://www.unsw.edu.au), Sydney, May 2018
-* M.S. in Computer Engineering, [Ajou University](https://www.ajou.ac.kr), Seoul, Feberuary 2010
+* M.S. in Computer Engineering, [Ajou University](https://www.ajou.ac.kr), Seoul, February 2010
 * B.S. in Computer Systems Engineering, [University of Engineering and Technology](http://www.uetpeshawar.edu.pk/), Peshawar, April 2007
 
 
@@ -25,10 +25,10 @@ Work experience
 * September 2018 - October 2019: Postdoctoral Research Fellow
   * University of Michigan and Macquarie University
   
-* Feberuary 2018 - present: Research Scientist
+* February 2018 - present: Research Scientist
   * Data61, CSIRO, Sydney, Australia
 
-* May 2014 - Feberuary 2018: Research Scientist
+* May 2014 - February 2018: Research Scientist
   * Data61, CSIRO, Sydney, Australia
   
 
