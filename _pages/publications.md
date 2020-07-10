@@ -20,13 +20,13 @@ Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, Sen Chen, <i>**Muhammad Ikram**</i
 Reethika Ramesh, Ram Sundara Raman, Matthew Bernhard, Victor Ongkowijaya, Leonid Evdokimov, Anne Edmundson, Steven Sprecher, <i>**Muhammad Ikram**</i>, and Roya Ensafi <br> In **NDSS**, 2020. <br>
 
 4.  <b>*[A Decade of Mal-Activity Reporting: A Retrospective Analysis of Internet Malicious Activity Blacklists](/files/asiaccs_malwareanalysis.pdf)*</b><br>
-Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  [**Best Paper Award**]><br>
+Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  [**Best Paper Award**]<br>
 
 5.  <b>*[The Chain of Implicit Trust: An Analysis of the Web Third-party Resources Loading](/files/ikram_www2019_cr.pdf)*</b><br>**Muhammad Ikram**, Rahat Masood, Gareth Tyson, Mohamed Ali Kaafar, Noha Loizon, and Roya Ensafi<br> In **WWW**, 2019.
 
 6.  <b>*[Incognito: A Method for Obfuscating Web Data](/files/Incognito-Ikram-WWW18.pdf)*</b><br>Rahat Masood, Dinusha Vatsalan, **Muhammad Ikram** and Mohamed Ali Kaafar<br> In **WWW**, 2018.<br>
 
-7.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms*](files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
+7.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
 
 7.  <b>*[A First Look at Ad Blocking Apps](/files/ikram_mpptools_nca.pdf)*</b><br>**Muhammad Ikram** and Mohamed Ali Kaafar<br>In **NCA**, 2017.<br> 
 
