@@ -8,7 +8,7 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-1.  <b>[Mobile health and privacy: cross sectional study]</b> <br> 
+1.  <b>Mobile health and privacy: cross sectional study</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
 <i>In **The Britisch Medical Journal (BMJ)**</i>, 2020.
 <br>
