@@ -10,7 +10,7 @@ The following are some of my peer-reviewed publications. For proper citations (a
 
 1.  <b>Mobile health and privacy: cross sectional study</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
-<i>In **The Britisch Medical Journal (BMJ)**</i>, 2020.
+<i>In **The Britisch Medical Journal (BMJ)**</i>, 2021.
 <br>
 
 2.  <b>[Security and Privacy in IoT Using Machine Learning and Blockchain: Threats and Countermeasures](/files/acm_survey_paper.pdf)</b> <br> 
