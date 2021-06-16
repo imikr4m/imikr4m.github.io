@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: Who am I?
-excerpt: "About me"
+title: M. Ikram?
+excerpt: "M. Ikram"
 author_profile: true
 redirect_from: 
   - /about/
