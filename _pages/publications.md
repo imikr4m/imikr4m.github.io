@@ -8,9 +8,9 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-1.  <b>Mobile health and privacy: cross sectional study</b> <br> 
+1.  <b>[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248.full)</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
-<i>In **The Britisch Medical Journal (BMJ)**</i>, 2021.
+<i>In **The Britisch Medical Journal (BMJ)**</i>, 2021. (**Impact Factor: 30.223**)
 <br>
 
 2.  <b>[Security and Privacy in IoT Using Machine Learning and Blockchain: Threats and Countermeasures](/files/acm_survey_paper.pdf)</b> <br> 
