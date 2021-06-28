@@ -31,14 +31,17 @@ Reethika Ramesh, Ram Sundara Raman, Matthew Bernhard, Victor Ongkowijaya, Leonid
 6.  <b>*[A Decade of Mal-Activity Reporting: A Retrospective Analysis of Internet Malicious Activity Blacklists](/files/asiaccs_malwareanalysis.pdf)*</b><br>
 Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  [**Best Paper Award**]<br>
 
-7.  <b>*[The Chain of Implicit Trust: An Analysis of the Web Third-party Resources Loading](/files/ikram_www2019_cr.pdf)*</b><br>**Muhammad Ikram**, Rahat Masood, Gareth Tyson, Mohamed Ali Kaafar, Noha Loizon, and Roya Ensafi<br> In **WWW**, 2019.
+7.  <b>*[DaDiDroid: An Obfuscation Resilient Tool for Detecting Android Malware via Weighted Directed Call Graph Modelling](https://arxiv.org/pdf/1905.09136.pdf)*</b><br>
+**Muhammad Ikram**, Pierrick Beaume, Mohamed Ali Kaafar<br> In **Secrypt**, 2019. <br>
 
-8.  <b>*[Incognito: A Method for Obfuscating Web Data](/files/Incognito-Ikram-WWW18.pdf)*</b><br>Rahat Masood, Dinusha Vatsalan, **Muhammad Ikram** and Mohamed Ali Kaafar<br> In **WWW**, 2018.<br>
+8.  <b>*[The Chain of Implicit Trust: An Analysis of the Web Third-party Resources Loading](/files/ikram_www2019_cr.pdf)*</b><br>**Muhammad Ikram**, Rahat Masood, Gareth Tyson, Mohamed Ali Kaafar, Noha Loizon, and Roya Ensafi<br> In **WWW**, 2019.
 
-9.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
+9.  <b>*[Incognito: A Method for Obfuscating Web Data](/files/Incognito-Ikram-WWW18.pdf)*</b><br>Rahat Masood, Dinusha Vatsalan, **Muhammad Ikram** and Mohamed Ali Kaafar<br> In **WWW**, 2018.<br>
 
-10.  <b>*[A First Look at Ad Blocking Apps](/files/ikram_mpptools_nca.pdf)*</b><br>**Muhammad Ikram** and Mohamed Ali Kaafar<br>In **NCA**, 2017.<br> 
+10.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
 
-11.  <b>*[Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning](/files/pets_tracking.pdf)*</b><br>**Muhammad Ikram**, Hassan Jameel Asghar, Mohamed Ali Kaafar, Anirban Mahanti, and Balachander Krishnamurthy<br> In **PETS**, 2017.<br>
+11.  <b>*[A First Look at Ad Blocking Apps](/files/ikram_mpptools_nca.pdf)*</b><br>**Muhammad Ikram** and Mohamed Ali Kaafar<br>In **NCA**, 2017.<br> 
 
-12. <b>*[An analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](/files/imc_vpn.pdf)*</b><br>**Muhammad Ikram**, Narseo Vallina-Rodriguez, Suranga Seneviratne, Mohamed Ali Kaafar, and Vern Paxson <br>In **IMC**, 2016. <br>
+12.  <b>*[Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning](/files/pets_tracking.pdf)*</b><br>**Muhammad Ikram**, Hassan Jameel Asghar, Mohamed Ali Kaafar, Anirban Mahanti, and Balachander Krishnamurthy<br> In **PETS**, 2017.<br>
+
+13. <b>*[An analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](/files/imc_vpn.pdf)*</b><br>**Muhammad Ikram**, Narseo Vallina-Rodriguez, Suranga Seneviratne, Mohamed Ali Kaafar, and Vern Paxson <br>In **IMC**, 2016. <br>
