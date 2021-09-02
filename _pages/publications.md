@@ -45,7 +45,7 @@ Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abd
 
 11.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
 
-12.  <b>*[A First Look at Ad Blocking Apps](https://arxiv.org/pdf/1505.01637)*</b><br>Farooqi, Shehroze, **Muhammad Ikram**, Guillaume Jourjon, Mohamed Ali Kaafar, Emiliano De Cristofaro, Zubair Shafiq, Arik Friedman, and Fareed Zaffar.<br>In **APWG Symposium on Electronic Crime Research (eCrime)**, 2017.<br>
+12.  <b>*[Characterizing Key Stakeholders in an Online Black-Hat Marketplace](https://arxiv.org/pdf/1505.01637)*</b><br>Farooqi, Shehroze, **Muhammad Ikram**, Guillaume Jourjon, Mohamed Ali Kaafar, Emiliano De Cristofaro, Zubair Shafiq, Arik Friedman, and Fareed Zaffar.<br>In **APWG Symposium on Electronic Crime Research (eCrime)**, 2017.<br>
 
 13.  <b>*[A First Look at Ad Blocking Apps](/files/ikram_mpptools_nca.pdf)*</b><br>**Muhammad Ikram** and Mohamed Ali Kaafar<br>In **NCA**, 2017.<br> 
 
