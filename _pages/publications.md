@@ -8,7 +8,7 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-1.  <b>[Analyzing security issues of android mobile health and medical applications](https://www.bmj.com/content/373/bmj.n1248.full)</b> <br> 
+1.  <b>[Analyzing security issues of android mobile health and medical applications](/files/jamia_paper_accepted_version.pdf)</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
 <i>In **Journal of the American Medical Informatics Association (JAMIA)**</i>, ocab131, https://doi.org/10.1093/jamia/ocab131, 2021. (**Impact Factor: 4.112**)
 <br>
@@ -43,7 +43,7 @@ Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abd
 
 10.  <b>*[Incognito: A Method for Obfuscating Web Data](/files/Incognito-Ikram-WWW18.pdf)*</b><br>Rahat Masood, Dinusha Vatsalan, **Muhammad Ikram** and Mohamed Ali Kaafar<br> In **WWW**, 2018.<br>
 
-11.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
+11.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](/files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
 
 12.  <b>*[Characterizing Key Stakeholders in an Online Black-Hat Marketplace](https://arxiv.org/pdf/1505.01637)*</b><br>Farooqi, Shehroze, **Muhammad Ikram**, Guillaume Jourjon, Mohamed Ali Kaafar, Emiliano De Cristofaro, Zubair Shafiq, Arik Friedman, and Fareed Zaffar.<br>In **APWG Symposium on Electronic Crime Research (eCrime)**, 2017.<br>
 
@@ -52,3 +52,5 @@ Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abd
 14.  <b>*[Towards Seamless Tracking-Free Web: Improved Detection of Trackers via One-class Learning](/files/pets_tracking.pdf)*</b><br>**Muhammad Ikram**, Hassan Jameel Asghar, Mohamed Ali Kaafar, Anirban Mahanti, and Balachander Krishnamurthy<br> In **PETS**, 2017.<br>
 
 15. <b>*[An analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](/files/imc_vpn.pdf)*</b><br>**Muhammad Ikram**, Narseo Vallina-Rodriguez, Suranga Seneviratne, Mohamed Ali Kaafar, and Vern Paxson <br>In **IMC**, 2016. <br>
+
+16. <b>*[Towards a Zero-Trust Micro-segmentation Network Security Strategy: An Evaluation Framework](/files/imc_vpn.pdf)*</b><br>Nardine Basta, **Muhammad Ikram**, Mohamed Ali Kaafar, Andy Walker <br>**Under review**, 2021. <br>
