@@ -39,7 +39,7 @@ Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, Sen Chen, <i>**Muhammad Ikram**</i
 Reethika Ramesh, Ram Sundara Raman, Matthew Bernhard, Victor Ongkowijaya, Leonid Evdokimov, Anne Edmundson, Steven Sprecher, <i>**Muhammad Ikram**</i>, and Roya Ensafi <br> In **NDSS**, 2020. <br>
 
 8.  <b>*[A Decade of Mal-Activity Reporting: A Retrospective Analysis of Internet Malicious Activity Blacklists](/files/asiaccs_malwareanalysis.pdf)*</b><br>
-Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  [**Best Paper Award**]<br>
+Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  ([**Best Paper Award**](/files/asiaccs2019.jpeg))<br>
 
 9.  <b>*[DaDiDroid: An Obfuscation Resilient Tool for Detecting Android Malware via Weighted Directed Call Graph Modelling](https://arxiv.org/pdf/1905.09136.pdf)*</b><br>
 **Muhammad Ikram**, Pierrick Beaume, Mohamed Ali Kaafar<br> In **Secrypt**, 2019. <br>
