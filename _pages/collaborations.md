@@ -21,6 +21,9 @@ published: true
 * [Nazar Waheed](https://www.linkedin.com/in/nazar-waheed-13a3b749/?originalSubdomain=au) (April 2019 -- present), University of Technology Sydeny. 
 	*	Co-supervising with Prof. [Xiangjian He](https://www.uts.edu.au/staff/xiangjian.he).
 
+* Adam Turner (July 2021 -- present), Macquarie University. 
+	*	Co-supervising with Dr. [Allon J. Uhlmann](https://researchers.mq.edu.au/en/persons/allon-j-uhlmann).
+
 
 **Current Bachelor and Master Degree Students**
 
@@ -31,10 +34,15 @@ published: true
 * [Burak Ozturker](https://www.linkedin.com/in/burak-ozturker-705628a5/?originalSubdomain=au) (February 2020 -- present), Macquarie University.
 
 
-**Past Students**
+**Past Postdoc**
+
+* [Saad Hashmi](https://researchers.mq.edu.au/en/persons/saad-hashmi) (2020 -- 2021), Postdoc Research Fellow, Macquarie University.  
+	*	Project: "Longitudinal Compliance Analysis of Android Applications with Privacy Policies"
+
+**Past Students and Postdoc**
 
 * [Saad Hashmi](https://researchers.mq.edu.au/en/persons/saad-hashmi) (2017 -- 2020), PhD in Computing, Macquarie University.  
-	*	Co-supervised with Dr. Stephen Smith
+	*	Current Position: Postdoctorial Research Fellow at University of Wollongong
 
 * [Nicholas Mangano](https://www.linkedin.com/in/nicholasmangano/?originalSubdomain=au) (2019), Bachelor of Software Engineering, Macquarie University.
 	*	Thesis: Static and dynamic analysis of mobile health applications. 
