@@ -6,6 +6,8 @@ author_profile: true
 published: true
 ---
 
+*  Nov 2021: Our [paper](/files/MobiQuitous2021_ikram.pdf) received the [Outstanding Paper Award](/files/OutstandingPaperAward.png) at Mobiquitous 2021!
+
 *  July 2020: Usenix Security 2020 accepts our paper on analyzing network services of iOS applications. Weldone team!
 
 *  March 2020: ACM TOPS accepts our paper on resource loading on web!
