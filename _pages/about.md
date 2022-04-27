@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: M. Ikram?
+title: M. Ikram
 excerpt: "M. Ikram"
 author_profile: true
 redirect_from: 
