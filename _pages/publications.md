@@ -8,7 +8,7 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-1. <b>*[Towards a Zero-Trust Micro-segmentation Network Security Strategy: An Evaluation Framework](/files/imc_vpn.pdf)*</b><br>Nardine Basta, **Muhammad Ikram**, Mohamed Ali Kaafar, Andy Walker <br>In **NOMS**, 2022. <br>
+1. <b>*[Towards a Zero-Trust Micro-segmentation Network Security Strategy: An Evaluation Framework](/files/noms_22.pdf)*</b><br>Nardine Basta, **Muhammad Ikram**, Mohamed Ali Kaafar, Andy Walker <br>In **NOMS**, 2022. <br>
 
 2.  <b>[Longitudinal Compliance Analysis of Android Applications with Privacy Policies](/files/MobiQuitous2021_ikram.pdf)</b> <br> 
 Saad Sajid Hashmi, Nazar Waheed, Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Stephen Smith<br>
