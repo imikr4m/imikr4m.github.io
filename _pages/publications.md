@@ -10,13 +10,11 @@ The following are some of my peer-reviewed publications. For proper citations (a
 
 20.  <b>[Don't be a Victim During a Pandemic! Analysing Security and Privacy Threats in Twitter During COVID-19](/files/IEEE_Access2023.pdf)</b> <br> 
 Bibhas Sharma, Ishan Karunanayake, Rahat Masood, <i>**Muhammad Ikram**</i>
-<i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023. (**Impact Factor: 3.367**)
-<br>
+<i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023. (**Impact Factor: 3.367**)<br>
 
 19.  <b>[An Empirical Analysis of Security and Privacy Risks in Android Cryptocurrency Wallet Apps](/files/Crypto_wallet_in_ACNS.pdf)</b> <br> 
 I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar<br>
-<i>In **The 21st International Conference on Applied Cryptography and Network Security (ACNS)**</i>, [https://doi.org/10.1093/jamia/ocab131](https://sulab-sever.u-aizu.ac.jp/ACNS2023/), 2023.
-<br>
+<i>In **The 21st International Conference on Applied Cryptography and Network Security (ACNS)**</i>, [https://doi.org/10.1093/jamia/ocab131](https://sulab-sever.u-aizu.ac.jp/ACNS2023/), 2023.<br>
 
 18. <b>*[A longitudinal study of the top 1% toxic Twitter profiles](/files/measuring_toxicity.pdf)*</b><br>Hina Qayyum, Benjamin Zi Hao Zhao, Ian D. Wood, **Muhammad Ikram**, Mohamed Ali Kaafar, Nicolas Kourtellis <br>In **WebSci**, 2023. <br>
 
