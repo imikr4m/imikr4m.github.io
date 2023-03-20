@@ -10,7 +10,7 @@ The following are some of my peer-reviewed publications. For proper citations (a
 
 20.  <b>[Don't be a Victim During a Pandemic! Analysing Security and Privacy Threats in Twitter During COVID-19](/files/IEEE_Access2023.pdf)</b> <br> 
 Bibhas Sharma, Ishan Karunanayake, Rahat Masood, <i>**Muhammad Ikram**</i>
-<i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023.
+<i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023. (**Impact Factor: 3.367**)
 <br>
 
 19.  <b>[An Empirical Analysis of Security and Privacy Risks in Android Cryptocurrency Wallet Apps](/files/Crypto_wallet_in_ACNS.pdf)</b> <br> 
