@@ -6,8 +6,6 @@ author_profile: true
 published: true
 ---
 
-{% include base_path %}
-
 
 
 **Current PhD Degree Students**
