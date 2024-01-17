@@ -8,17 +8,21 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-22.  <b>[SSoK: False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations](/files/) </b> <br> 
+23.  <b>[SSoK: False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations](/files/) </b> <br> 
 Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhere <br>
 <i>In **19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS)**</i>, https://asiaccs2024.sutd.edu.sg/, 2024. <br>
 
-21.  <b>[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)</b> <br> 
+22.  <b>[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)</b> <br> 
 Houssem Jmal, Firas Ben Hmida, Nardine Basta, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar, Andy Walker <br>
 <i>In **IEEE Transactions on Information Forensics and Security (IEEE T-IFS)**</i>, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206, 2024. (**Impact Factor: 6.8**)<br>
 
+21.  <b>[Use of Cryptography in Malware Obfuscation](https://arxiv.org/pdf/2212.04008.pdf)</b> <br> 
+Hassan Jameel Asghar, Benjamin Zi Hao Zhao,  <i>**Muhammad Ikram**</i>, Giang Nguyen, Mohamed Ali Kaafar, Sean Lamont, Daniel Coscia<br>
+<i>In **The Journal of Computer Virology and Hacking Techniques**</i>, 2023. (**Impact Factor: 3.5**)<br>
+
 20.  <b>[Don't be a Victim During a Pandemic! Analysing Security and Privacy Threats in Twitter During COVID-19](/files/IEEE_Access2023.pdf)</b> <br> 
 Bibhas Sharma, Ishan Karunanayake, Rahat Masood, <i>**Muhammad Ikram**</i> <br>
-<i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023. (**Impact Factor: 3.367**)<br>
+<i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023. (**Impact Factor: 3.9**)<br>
 
 19.  <b>[An Empirical Analysis of Security and Privacy Risks in Android Cryptocurrency Wallet Apps](/files/Crypto_wallet_in_ACNS.pdf)</b> <br> 
 I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar<br>
@@ -35,12 +39,12 @@ Saad Sajid Hashmi, Nazar Waheed, Gioacchino Tangari, <i>**Muhammad Ikram**</i>, 
 
 15.  <b>[Analyzing security issues of android mobile health and medical applications](/files/jamia_paper_accepted_version.pdf)</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
-<i>In **Journal of the American Medical Informatics Association (JAMIA)**</i>, ocab131, https://doi.org/10.1093/jamia/ocab131, 2021. (**Impact Factor: 4.112**)
+<i>In **Journal of the American Medical Informatics Association (JAMIA)**</i>, ocab131, https://doi.org/10.1093/jamia/ocab131, 2021. (**Impact Factor: 7.9**)
 <br>
 
 14.  <b>[Mobile health and privacy: cross-sectional study](https://www.bmj.com/content/373/bmj.n1248.full)</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
-<i>In **The Britisch Medical Journal (BMJ)**</i>, 2021. (**Impact Factor: 30.223**)
+<i>In **The Britisch Medical Journal (BMJ)**</i>, 2021. (**Impact Factor: 107.7**)
 <br>
 
 13.  <b>[Security and Privacy in IoT Using Machine Learning and Blockchain: Threats and Countermeasures](/files/acm_survey_paper.pdf)</b> <br> 
