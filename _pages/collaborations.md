@@ -43,6 +43,7 @@ published: true
 
 * [Nazar Waheed](https://www.linkedin.com/in/nazar-waheed-13a3b749/?originalSubdomain=au) (April 2019 -- 2023), University of Technology Sydeny. 
 	*	Co-supervising with Prof. [Priyadarsi Nanda](https://profiles.uts.edu.au/Priyadarsi.Nanda/about).
+ 	*	PhD Thesis: Identifying Security and Privacy Issues in the End-user Systems
 
 * [Adam Turner](https://scholar.google.com/citations?hl=en&user=7hUUXVwAAAAJ&view_op=list_works&sortby=pubdate) (July 2021 -- 2023), Macquarie University. 
 	*	Co-supervising with Dr. [Allon J. Uhlmann](https://researchers.mq.edu.au/en/persons/allon-j-uhlmann).
