@@ -10,13 +10,13 @@ published: true
 
 **Current PhD Degree Students**
 
-* Mohammad Majid Akhtar (January 2022 -- present), The University of New South Wales
+* [Mohammad Majid Akhtar](https://scholar.google.com/citations?user=s0S12tUAAAAJ&hl=en&oi=ao) (January 2022 -- present), The University of New South Wales
 	*	Co-supervising with Dr. Rahat Masood and Prof. Salil S. Kanhere Kanhere
 
-* Zeeshan Zulkifl (July 2023 -- present), Macquarie University. 
+* [Zeeshan Zulkifl](https://www.linkedin.com/in/zzshah/?originalSubdomain=pk) (July 2023 -- present), Macquarie University. 
 	*	Co-supervising with Prof. Dali Kaafar
 
-* Muhammad Salman (September 2021 -- present), Macquarie University.
+* [Muhammad Salman](https://researchers.mq.edu.au/en/persons/salman-salman) (September 2021 -- present), Macquarie University.
 	*	Co-supervising with Prof. Dali Kaafar
 
 * Shashie Dilhara Arachchige (September 2023 -- present), Macquarie University. 
