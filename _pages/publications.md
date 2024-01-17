@@ -6,7 +6,15 @@ author_profile: true
 published: true
 ---
 
-The following are some of my peer-reviewed publications. For proper citations (and complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
+The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
+
+22.  <b>[SSoK: False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations]</b> <br> 
+Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhere 
+<i>In **19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS)**</i>, https://asiaccs2024.sutd.edu.sg/, 2024. <br>
+
+21.  <b>[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)</b> <br> 
+Houssem Jmal, Firas Ben Hmida, Nardine Basta, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar, Andy Walker 
+<i>In **IEEE Transactions on Information Forensics and Security (IEEE T-IFS)**</i>, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206, 2024. (**Impact Factor: 6.8**)<br>
 
 20.  <b>[Don't be a Victim During a Pandemic! Analysing Security and Privacy Threats in Twitter During COVID-19](/files/IEEE_Access2023.pdf)</b> <br> 
 Bibhas Sharma, Ishan Karunanayake, Rahat Masood, <i>**Muhammad Ikram**</i>
@@ -30,7 +38,7 @@ Gioacchino Tangari, <i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Kiran Ijaz,
 <i>In **Journal of the American Medical Informatics Association (JAMIA)**</i>, ocab131, https://doi.org/10.1093/jamia/ocab131, 2021. (**Impact Factor: 4.112**)
 <br>
 
-14.  <b>[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248.full)</b> <br> 
+14.  <b>[Mobile health and privacy: cross-sectional study](https://www.bmj.com/content/373/bmj.n1248.full)</b> <br> 
 Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Kiran Ijaz, Mohamed Ali Kaafar, Shlomo Berkovsky<br>
 <i>In **The Britisch Medical Journal (BMJ)**</i>, 2021. (**Impact Factor: 30.223**)
 <br>
