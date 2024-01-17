@@ -9,15 +9,15 @@ published: true
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
 22.  <b>[SSoK: False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations](/files/) </b> <br> 
-Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhere 
+Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhere <br>
 <i>In **19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS)**</i>, https://asiaccs2024.sutd.edu.sg/, 2024. <br>
 
 21.  <b>[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)</b> <br> 
-Houssem Jmal, Firas Ben Hmida, Nardine Basta, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar, Andy Walker 
+Houssem Jmal, Firas Ben Hmida, Nardine Basta, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar, Andy Walker <br>
 <i>In **IEEE Transactions on Information Forensics and Security (IEEE T-IFS)**</i>, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206, 2024. (**Impact Factor: 6.8**)<br>
 
 20.  <b>[Don't be a Victim During a Pandemic! Analysing Security and Privacy Threats in Twitter During COVID-19](/files/IEEE_Access2023.pdf)</b> <br> 
-Bibhas Sharma, Ishan Karunanayake, Rahat Masood, <i>**Muhammad Ikram**</i>
+Bibhas Sharma, Ishan Karunanayake, Rahat Masood, <i>**Muhammad Ikram**</i> <br>
 <i>In **IEEE Access**</i>, https://ieeeaccess.ieee.org/, 2023. (**Impact Factor: 3.367**)<br>
 
 19.  <b>[An Empirical Analysis of Security and Privacy Risks in Android Cryptocurrency Wallet Apps](/files/Crypto_wallet_in_ACNS.pdf)</b> <br> 
