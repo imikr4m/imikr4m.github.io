@@ -30,7 +30,7 @@ published: true
 
 **Past Bachelor Thesis, MRes, and PhD Students**
 
-* Sidharth Kaushik (January 2023 -- January 2024), Macquarie University. 
+* [Sidharth Kaushik](https://www.linkedin.com/in/sidharth-kaushik/?originalSubdomain=au) (January 2023 -- January 2024), Macquarie University. 
 	* 	MRes Thesis: Robustness Analysis of \mbox{Machine Learning}-Based And Hashes-Based Malware Detectors
    
 * [I Wayan Budi Sentana](https://scholar.google.com/citations?hl=en&user=X-bsAP0AAAAJ&view_op=list_works&sortby=pubdate) (February 2020 -- December 2023), Macquarie University.
@@ -43,7 +43,7 @@ published: true
 * [Nazar Waheed](https://www.linkedin.com/in/nazar-waheed-13a3b749/?originalSubdomain=au) (April 2019 -- 2023), University of Technology Sydeny. 
 	*	Co-supervising with Prof. [Priyadarsi Nanda](https://profiles.uts.edu.au/Priyadarsi.Nanda/about).
 
-* Adam Turner (July 2021 -- 2023), Macquarie University. 
+* [Adam Turner](https://scholar.google.com/citations?hl=en&user=7hUUXVwAAAAJ&view_op=list_works&sortby=pubdate) (July 2021 -- 2023), Macquarie University. 
 	*	Co-supervising with Dr. [Allon J. Uhlmann](https://researchers.mq.edu.au/en/persons/allon-j-uhlmann).
  	*	PhD Thesis: [Addressing The Intelligence Applications of Bitcoin Payments Related to Ransomware](https://figshare.mq.edu.au/articles/thesis/Addressing_The_Intelligence_Applications_of_Bitcoin_Payments_Related_to_Ransomware/23902488/1/files/41906040.pdf)
   	*	Current Position: Google Sydney
