@@ -35,6 +35,7 @@ published: true
    
 * [I Wayan Budi Sentana](https://scholar.google.com/citations?hl=en&user=X-bsAP0AAAAJ&view_op=list_works&sortby=pubdate) (February 2020 -- December 2023), Macquarie University.
 	* 	PhD Thesis: Analysis and Design of Secure and Attacks Resilient Mechanism for Online Platform
+ 	* 	Current Position: Lecturer at Politeknik Negeri Bali
 
 * Hina Qayyum (July 2020 -- 2023), Macquarie University. 
 	*	Co-supervising with Prof. [Dali Kaafar](https://dali-kaafar.github.io/).
