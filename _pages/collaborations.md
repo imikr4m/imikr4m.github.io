@@ -16,7 +16,7 @@ published: true
 * Zeeshan Zulkifl (July 2023 -- present), Macquarie University. 
 	*	Co-supervising with Prof. Dali Kaafar
 
-* Muhammad Salman, (September 2021 -- present), Macquarie University.
+* Muhammad Salman (September 2021 -- present), Macquarie University.
 	*	Co-supervising with Prof. Dali Kaafar
 
 * Shashie Dilhara Arachchige (September 2023 -- present), Macquarie University. 
