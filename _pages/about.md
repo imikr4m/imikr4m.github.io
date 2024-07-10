@@ -12,7 +12,7 @@ redirect_from:
 I am Muhammad Ikram, a Senior Lecturer in Cybersecurity at the [Faculty of Science and Engineering](https://www.mq.edu.au/faculty-of-science-and-engineering), [School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), Macquarie University, Sydney, Australia. Previously, I had the privilege to serve as a joint postdoctoral research fellow at the University of Michigan and Macquarie University. My educational background includes a Ph.D. in Electrical Engineering from UNSW, where I had the opportunity to work under the supervision of Prof. [Roya Ensafi](https://ensa.fi/) and Prof. [Mohamed Ali (Dali) Kaafar](https://dali-kaafar.github.io).
 
 
-My research interests primarily focus on analysing security and privacy issues in Web and mobile platforms. In the last few years, I have been working to build techniques leveraging machine-learning algorithms to tackle security and privacy issues and fraud detection targeting online services. To get further insights into my research interests, please refer to my publications.
+My research interests primarily focus on analyzing security and privacy issues in Web and mobile platforms. In the last few years, I have been working to build techniques leveraging machine-learning algorithms to tackle security and privacy issues and fraud detection targeting online services. To get further insights into my research interests, please refer to my publications.
 
 
 Prospective Students
