@@ -8,7 +8,7 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-23.  <b>[More Than Just a Random Number Generator! Unveiling the Security and Privacy Risks of Mobile OTP Authenticator Apps](/files/OTP_on_WISE24.pdf) </b> <br> 
+24.  <b>[More Than Just a Random Number Generator! Unveiling the Security and Privacy Risks of Mobile OTP Authenticator Apps](/files/OTP_on_WISE24.pdf) </b> <br> 
 <i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Hassan Asghar, Mohamed Ali Kaafar, Michal Kepkowski <br>
 <i>In **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <br>
 
