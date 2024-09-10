@@ -10,7 +10,7 @@ The following are some of my peer-reviewed publications. For proper citations (a
 
 26.  <b>[Auditing and Attributing Behaviours of Suspicious Android Health Applications](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
 Muhammad Salman, I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar <br>
-<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [[https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/](https://nsclab.org/nss-socialsec2024/), 2024. <be>
+<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/](https://nsclab.org/nss-socialsec2024/), 2024. <be>
 
 25.  <b>[On Adversarial Training with Incorrect Labels](/files/Poisoning_Attack_on_Adversarial_Training__WISE_.pdf) </b> <br> 
 Benjamin Zi Hao Zhao, Junda Lu, Xiaowei Zhou, Dinusha Vatsalan, <i>**Muhammad Ikram**</i>, and Mohamed Ali Kaafar <br>
