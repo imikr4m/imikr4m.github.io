@@ -8,6 +8,10 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
+23.  <b>[More Than Just a Random Number Generator! Unveiling the Security and Privacy Risks of Mobile OTP Authenticator Apps](/files/OTP_on_WISE24.pdf) </b> <br> 
+<i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Hassan Asghar, Mohamed Ali Kaafar, Michal Kepkowski <br>
+<i>In **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <br>
+
 23.  <b>[SoK: False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations](/files/AsiaCCS_SoK__Main_revision_Before_submit.pdf) </b> <br> 
 Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhere <br>
 <i>In **19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS)**</i>, https://asiaccs2024.sutd.edu.sg/, 2024. <br>
