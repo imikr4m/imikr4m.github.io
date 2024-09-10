@@ -8,13 +8,21 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
+26.  <b>[Auditing and Attributing Behaviours of Suspicious Android Health Applications](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
+Muhammad Salman, I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar <br>
+<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [[https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/](https://nsclab.org/nss-socialsec2024/), 2024. <be>
+
+25.  <b>[On Adversarial Training with Incorrect Labels](/files/Poisoning_Attack_on_Adversarial_Training__WISE_.pdf) </b> <br> 
+Benjamin Zi Hao Zhao, Junda Lu, Xiaowei Zhou, Dinusha Vatsalan, <i>**Muhammad Ikram**</i>, and Mohamed Ali Kaafar <br>
+<i>In the **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <be>
+
 24.  <b>[More Than Just a Random Number Generator! Unveiling the Security and Privacy Risks of Mobile OTP Authenticator Apps](/files/OTP_on_WISE24.pdf) </b> <br> 
 <i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Hassan Asghar, Mohamed Ali Kaafar, Michal Kepkowski <br>
-<i>In **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <br>
+<i>In the **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <br>
 
 23.  <b>[SoK: False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations](/files/AsiaCCS_SoK__Main_revision_Before_submit.pdf) </b> <br> 
 Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhere <br>
-<i>In **19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS)**</i>, https://asiaccs2024.sutd.edu.sg/, 2024. <br>
+<i>In the **19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS)**</i>, https://asiaccs2024.sutd.edu.sg/, 2024. <br>
 
 22.  <b>[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)</b> <br> 
 Houssem Jmal, Firas Ben Hmida, Nardine Basta, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar, Andy Walker <br>
