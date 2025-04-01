@@ -5,7 +5,12 @@ permalink: /news/
 author_profile: true
 published: true
 ---
-
+*  March 2025: I will be serving as PC at NDSS 2026.
+  
+*  March 2025: I will be serving as PC at PETS/PoPETS 2025/2026.
+  
+*  Feb 2025: I will be serving as PC at IEEE S&P 2026.
+  
 *  Nov 2021: Our [paper](/files/MobiQuitous2021_ikram.pdf) received the [Outstanding Paper Award](/files/OutstandingPaperAward.png) at Mobiquitous 2021!
 
 *  July 2020: Usenix Security 2020 accepts our paper on analyzing network services of iOS applications. Weldone team!
