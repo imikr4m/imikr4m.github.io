@@ -10,12 +10,15 @@ published: true
 
 **Current PhD Degree Students**
 
-* [Mohammad Majid Akhtar](https://scholar.google.com/citations?user=s0S12tUAAAAJ&hl=en&oi=ao) (January 2022 -- present), The University of New South Wales
-	*	Co-supervising with Dr. Rahat Masood and Prof. Salil S. Kanhere Kanhere
+* [Muhammad Ali Paracha](https://www.linkedin.com/in/aliparacha/) (August 2024 -- present), Macquarie University
+
+* [Sunday Oyinlola Ogundoyin](https://scholar.google.com/citations?user=OftupnYAAAAJ&hl=en) (October 2024 -- present), Macquarie University
 
 * [Zeeshan Zulkifl](https://www.linkedin.com/in/zzshah/?originalSubdomain=pk) (July 2023 -- present), Macquarie University. 
-	*	Co-supervising with Prof. Dali Kaafar
+	*	Co-supervising with Prof. Dali Kaafar and Dr. Hassan Jameel Asghar
 
+* [Mohammad Majid Akhtar](https://scholar.google.com/citations?user=s0S12tUAAAAJ&hl=en&oi=ao) (January 2022 -- present), The University of New South Wales
+	*	Co-supervising with Dr. Rahat Masood and Prof. Salil S. Kanhere Kanhere
 
 **Past Postdoc**
 
@@ -25,8 +28,8 @@ published: true
 **Past Bachelor Thesis, MRes, and PhD Students**
 
 * [Muhammad Salman](https://www.linkedin.com/in/muhammadsalman11/) (September 2021 -- January 2025), Macquarie University.
-	* PhD Thesis: Analysis and design of robust digital misbehavior detection systems
-	* Current Position: Cyber Security Engineer at Procare Cyber
+	*   PhD Thesis: Analysis and design of robust digital misbehavior detection systems
+	*   Current Position: Cyber Security Engineer at Procare Cyber
 
 * [Sidharth Kaushik](https://www.linkedin.com/in/sidharth-kaushik/?originalSubdomain=au) (January 2023 -- January 2024), Macquarie University. 
 	* 	MRes Thesis: Robustness Analysis of \mbox{Machine Learning}-Based And Hashes-Based Malware Detectors
