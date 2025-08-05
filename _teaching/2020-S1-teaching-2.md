@@ -1,10 +1,9 @@
 ---
-title: "[COMP8325--Application of AI in Cybersecurity](https://coursehandbook.mq.edu.au/2020/units/COMP8325)"
+title: "Teaching"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2020-S1-teaching-1
-venue: "Macquarie University, Computing Department"
-date: 2020-02-01
+venue: "Macquarie University, School of Computing"
 location: "Sydney, Australia"
 ---
 
