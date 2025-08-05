@@ -41,7 +41,7 @@ published: true
 
 * Hina Qayyum (July 2020 -- 2023), Macquarie University. 
 	*	Co-supervising with Prof. [Dali Kaafar](https://dali-kaafar.github.io/).
- 	*	PhD Thesis: Exposing misconduct on free online platforms: A study of mobile apps, web games, and social networks
+	*	PhD Thesis: Exposing misconduct on free online platforms: A study of mobile apps, web games, and social networks
 
 * [Nazar Waheed](https://www.linkedin.com/in/nazar-waheed-13a3b749/?originalSubdomain=au) (April 2019 -- 2023), University of Technology Sydeny. 
 	*	Co-supervising with Prof. [Priyadarsi Nanda](https://profiles.uts.edu.au/Priyadarsi.Nanda/about).
@@ -50,11 +50,11 @@ published: true
 
 * [Adam Turner](https://scholar.google.com/citations?hl=en&user=7hUUXVwAAAAJ&view_op=list_works&sortby=pubdate) (July 2021 -- 2023), Macquarie University. 
 	*	Co-supervising with Dr. [Allon J. Uhlmann](https://researchers.mq.edu.au/en/persons/allon-j-uhlmann).
- 	*	PhD Thesis: [Addressing The Intelligence Applications of Bitcoin Payments Related to Ransomware](https://figshare.mq.edu.au/articles/thesis/Addressing_The_Intelligence_Applications_of_Bitcoin_Payments_Related_to_Ransomware/23902488/1/files/41906040.pdf)
-  	*	Current Position: Head of Data Analytics Practice, Google Cloud Consulting 
+	*	PhD Thesis: [Addressing The Intelligence Applications of Bitcoin Payments Related to Ransomware](https://figshare.mq.edu.au/articles/thesis/Addressing_The_Intelligence_Applications_of_Bitcoin_Payments_Related_to_Ransomware/23902488/1/files/41906040.pdf)
+	*	Current Position: Head of Data Analytics Practice, Google Cloud Consulting 
 
 * Duc Linh Giang Nguyen (January 2022 -- January 2023), Macquarie University. 
- 	*	PhD Thesis: Characterizing and Detecting Binary Obfuscation
+	*	MRes Thesis: Characterizing and Detecting Binary Obfuscation
 
 * [Saad Hashmi](https://researchers.mq.edu.au/en/persons/saad-hashmi) (2017 -- 2020), PhD in Computing, Macquarie University.
 	* 	PhD Thesis: Empirical Analysis of Privacy-preserving Technologies for Web and Mobile Platform
