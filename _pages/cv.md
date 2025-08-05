@@ -18,9 +18,9 @@ Education
 
 Work experience
 ======
-* October 2019 - present: Lecturer in Cybersecurity
-  * Optus Macquarie University Cyber Security Hub
-  * Computing Department, Macquarie University
+* October 2019 - present: Senior Lecturer in Cybersecurity
+  * Macquarie University Cyber Security Hub
+  * School of Computing, Macquarie University
 
 * September 2018 - October 2019: Postdoctoral Research Fellow
   * University of Michigan and Macquarie University
