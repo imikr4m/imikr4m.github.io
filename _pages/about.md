@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: Dr. Muhammad Ikram
-excerpt: "Cybersecurity Researcher | Lecturer | Supervisor"
+excerpt: "Cybersecurity Researcher | Senior Lecturer | Supervisor"
 author_profile: true
 redirect_from: 
   - /about/
