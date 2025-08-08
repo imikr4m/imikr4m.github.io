@@ -1,7 +1,7 @@
 ---
 title: "COMP8851/COMP8860 – Capstone Project Supervision"
 collection: teaching
-type: "Graduate"
+type: "Postgraduate"
 permalink: /teaching/capstoneprojects
 venue: "School of Computing, Macquarie University"
 date: 2020 (Ongoing)
