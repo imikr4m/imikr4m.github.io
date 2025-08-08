@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2020-S1-Teaching
 venue: "School of Computing, Macquarie University"
-date: 2021-03-01
+date: 2021 (Ongoing)
 location: "Sydney, Australia"
 ---
    - *Postgraduate (Ongoing, since 2021)*  
