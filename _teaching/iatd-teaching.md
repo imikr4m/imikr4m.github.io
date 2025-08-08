@@ -1,5 +1,5 @@
 ---
-title: "Microcredentials (Short Courses) for Upskilling"
+title: "Microcredentials (Short Courses) for Cybersecurity Training/Upskilling"
 collection: teaching
 type: "Certification"
 permalink: /teaching/iatd-teaching
