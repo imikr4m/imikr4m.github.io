@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Mentorship
+title: Research Supervision and Mentoring
 permalink: /collaborations/
 author_profile: true
 published: true
@@ -10,7 +10,7 @@ published: true
 
 **Current PhD Degree Students**
 
-* [Muhammad Ali Paracha](https://www.linkedin.com/in/aliparacha/) (August 2024 -- present), Macquarie University
+* [Muhammad Ali Paracha](https://www.linkedin.com/in/aliparacha/) (August 2025 -- present), Macquarie University
 
 * [Sunday Oyinlola Ogundoyin](https://scholar.google.com/citations?user=OftupnYAAAAJ&hl=en) (October 2024 -- present), Macquarie University
 
