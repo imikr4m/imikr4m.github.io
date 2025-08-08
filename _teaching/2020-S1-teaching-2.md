@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
+title: "Teaching and Mentoring"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2020-S1-teaching-1
+permalink: /teaching/2020-S1-teaching-2
 venue: "Macquarie University, School of Computing"
 location: "Sydney, Australia"
 ---
