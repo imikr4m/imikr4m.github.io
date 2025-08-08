@@ -3,7 +3,7 @@ title: "COMP8325 – Applications of AI for Cyber Security"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2020-S1-Teaching
-venue: "School of Computer Science, University of Sydney"
+venue: "School of Computing, Macquarie University"
 date: 2021-03-01
 location: "Sydney, Australia"
 ---
