@@ -1,10 +1,10 @@
 ---
-title: "Microcredentials (Short Courses)"
+title: "Microcredentials (Short Courses) for Upskilling"
 collection: teaching
-type: "Undergraduate"
+type: "Certification"
 permalink: /teaching/iatd-teaching
 venue: "Institute of Technology, Digital, TAFE Meadowbank"
-date: 2022-03-01
+date: 2022-03-01 (Ongoing)
 location: "Sydney, Australia"
 ---
 
