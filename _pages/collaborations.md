@@ -6,8 +6,6 @@ author_profile: true
 published: true
 ---
 
-
-
 **Current PhD Degree Students**
 
 * [Muhammad Ali Paracha](https://www.linkedin.com/in/aliparacha/) (August 2025 -- present), Macquarie University
@@ -18,7 +16,7 @@ published: true
 	*	Co-supervising with Prof. Dali Kaafar and Dr. Hassan Jameel Asghar
 
 * [Mohammad Majid Akhtar](https://scholar.google.com/citations?user=s0S12tUAAAAJ&hl=en&oi=ao) (January 2022 -- present), The University of New South Wales
-	*	Co-supervising with Dr. Rahat Masood and Prof. Salil S. Kanhere Kanhere
+	*	Co-supervising with Dr. Rahat Masood and Prof. Salil S. Kanhere
 
 **Past Postdoc**
 
@@ -32,11 +30,11 @@ published: true
 	*   Current Position: Cyber Security Engineer at Procare Cyber
 
 * [Sidharth Kaushik](https://www.linkedin.com/in/sidharth-kaushik/?originalSubdomain=au) (January 2023 -- January 2024), Macquarie University. 
-	* 	MRes Thesis: Robustness Analysis of \mbox{Machine Learning}-Based And Hashes-Based Malware Detectors
-	*   Current Position: Founder GovernSafe
+	* 	MRes Thesis: Robustness Analysis of {Machine Learning}-Based And Hashes-Based Malware Detectors
+	*   Current Position: Founder, GovernSafe
    
 * [I Wayan Budi Sentana](https://scholar.google.com/citations?hl=en&user=X-bsAP0AAAAJ&view_op=list_works&sortby=pubdate) (February 2020 -- December 2023), Macquarie University.
-	* 	PhD Thesis: Analysis and Design of Secure and Attacks Resilient Mechanism for Online Platform
+	* 	PhD Thesis: Analysis and Design of Secure and Attack-Resilient Mechanisms for Online Platforms
  	* 	Current Position: Deputy Head of Information Technology Department, Politeknik Negeri Bali
 
 * Hina Qayyum (July 2020 -- 2023), Macquarie University. 
