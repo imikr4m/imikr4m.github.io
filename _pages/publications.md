@@ -8,9 +8,21 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
+27.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/RAID2025_DeceptiveNetworks_MQU.pdf) </b> <br> 
+Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
+<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <be>
+
+27.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
+Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
+<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <be>
+
+27.  <b>[CARE: Enhancing LLM Instruction Following via Dual-Agent Prompt Refinement](/files/ecai_Interactive_Multi_Agent_Prompt_Refinement-mq.pdf) </b> <br> 
+Nardine Basta, Benjamin Zhao, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar <br>
+<i>In the **28th European Conference on Artificial Intelligence (ECAI)**</i>, [https://ecai2025.org/](https://ecai2025.org/), 2025. <be>
+
 26.  <b>[Auditing and Attributing Behaviours of Suspicious Android Health Applications](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
 Muhammad Salman, I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar <br>
-<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/](https://nsclab.org/nss-socialsec2024/), 2024. <be>
+<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [https://wise2024-qatar.com/](https://wise2024-qatar.com/), 2024. <be>
 
 25.  <b>[On Adversarial Training with Incorrect Labels](/files/Poisoning_Attack_on_Adversarial_Training__WISE_.pdf) </b> <br> 
 Benjamin Zi Hao Zhao, Junda Lu, Xiaowei Zhou, Dinusha Vatsalan, <i>**Muhammad Ikram**</i>, and Mohamed Ali Kaafar <br>
