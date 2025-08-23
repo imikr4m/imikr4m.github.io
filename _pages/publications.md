@@ -10,31 +10,31 @@ The following are some of my peer-reviewed publications. For proper citations (a
 
 31.  <b>[Unsafe by Design? A First Look at Security and Privacy Risks in OpenAI’s Custom GPT Ecosystem](/files/Unpacking_the_Dynamics_of_Custom_GPTs_mq.pdf) </b> <br> 
 Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Hassan Asghar, Benjamin Zi Hao Zhao, Mohamed Ali Kaafar <br>
-<i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <be>
+<i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
 
 30.  <b>[Unveiling Usability Challenges in Web Privacy Controls](/files/Web_Crawling_privacy-mq.pdf) </b> <br> 
 Rahat Masood, Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Alex Ye <br>
-<i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <be>
+<i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
 
 29.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/RAID2025_DeceptiveNetworks_MQU.pdf) </b> <br> 
 Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
-<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <be>
+<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <br>
 
 28.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
 Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
-<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <be>
+<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <br>
 
 27.  <b>[CARE: Enhancing LLM Instruction Following via Dual-Agent Prompt Refinement](/files/ecai_Interactive_Multi_Agent_Prompt_Refinement-mq.pdf) </b> <br> 
 Nardine Basta, Benjamin Zhao, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar <br>
-<i>In the **28th European Conference on Artificial Intelligence (ECAI)**</i>, [https://ecai2025.org/](https://ecai2025.org/), 2025. <be>
+<i>In the **28th European Conference on Artificial Intelligence (ECAI)**</i>, [https://ecai2025.org/](https://ecai2025.org/), 2025. <br>
 
 26.  <b>[Auditing and Attributing Behaviours of Suspicious Android Health Applications](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
 Muhammad Salman, I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar <br>
-<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [https://wise2024-qatar.com/](https://wise2024-qatar.com/), 2024. <be>
+<i>In the **18th International Conference on Network and System Security (NSS)**</i>, [https://wise2024-qatar.com/](https://wise2024-qatar.com/), 2024. <br>
 
 25.  <b>[On Adversarial Training with Incorrect Labels](/files/Poisoning_Attack_on_Adversarial_Training__WISE_.pdf) </b> <br> 
 Benjamin Zi Hao Zhao, Junda Lu, Xiaowei Zhou, Dinusha Vatsalan, <i>**Muhammad Ikram**</i>, and Mohamed Ali Kaafar <br>
-<i>In the **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <be>
+<i>In the **25th Web Information Systems Engineering Society (WISE)**</i>, [https://asiaccs2024.sutd.edu.sg/](https://wise2024-qatar.com/), 2024. <br>
 
 24.  <b>[More Than Just a Random Number Generator! Unveiling the Security and Privacy Risks of Mobile OTP Authenticator Apps](/files/OTP_on_WISE24.pdf) </b> <br> 
 <i>**Muhammad Ikram**</i>, I Wayan Budi Sentana, Hassan Asghar, Mohamed Ali Kaafar, Michal Kepkowski <br>
