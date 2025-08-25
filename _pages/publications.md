@@ -8,19 +8,15 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-31.  <b>[Unsafe by Design? A First Look at Security and Privacy Risks in OpenAI’s Custom GPT Ecosystem](/files/Unpacking_the_Dynamics_of_Custom_GPTs_mq.pdf) </b> <br> 
+30.  <b>[Unsafe by Design? A First Look at Security and Privacy Risks in OpenAI’s Custom GPT Ecosystem](/files/Unpacking_the_Dynamics_of_Custom_GPTs_mq.pdf) </b> <br> 
 Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Hassan Asghar, Benjamin Zi Hao Zhao, Mohamed Ali Kaafar <br>
 <i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
 
-30.  <b>[Unveiling Usability Challenges in Web Privacy Controls](/files/Web_Crawling_privacy-mq.pdf) </b> <br> 
+29.  <b>[Unveiling Usability Challenges in Web Privacy Controls](/files/Web_Crawling_privacy-mq.pdf) </b> <br> 
 Rahat Masood, Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Alex Ye <br>
 <i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
 
-29.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/RAID2025_DeceptiveNetworks_MQU.pdf) </b> <br> 
-Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
-<i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <br>
-
-28.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/malicious_mhealth_apps_analysis_nss.pdf) </b> <br> 
+28.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/RAID2025_DeceptiveNetworks_MQU.pdf) </b> <br> 
 Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
 <i>In the **28th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID)**</i>, [https://raid2025.github.io/](https://raid2025.github.io/), 2025. <br>
 
