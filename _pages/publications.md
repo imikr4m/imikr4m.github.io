@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: Selected Publications
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
-published: true
 ---
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
