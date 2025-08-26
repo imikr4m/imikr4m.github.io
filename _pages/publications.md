@@ -13,7 +13,7 @@ Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Hassan Asghar, Benjamin Zi
 <i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
 
 29.  <b>[Unveiling Usability Challenges in Web Privacy Controls](/files/Web_Crawling_privacy-mq.pdf) </b> <br> 
-Rahat Masood, Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Alex Ye <br>
+Rahat Masood, Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i> <br>
 <i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
 
 28.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/RAID2025_DeceptiveNetworks_MQU.pdf) </b> <br> 
