@@ -29,10 +29,16 @@ published: true
 	*   PhD Thesis: Analysis and design of robust digital misbehavior detection systems
 	*   Current Position: Cyber Security Engineer at Procare Cyber
 
+* Osama Al Haddad (September 2024 -- May 2025), Macquarie University.
+	*   PhD Thesis: Prompting the Priorities: A First Look at Evaluating LLMs for Vulnerability Triage and Prioritization
+
 * [Sidharth Kaushik](https://www.linkedin.com/in/sidharth-kaushik/?originalSubdomain=au) (January 2023 -- January 2024), Macquarie University. 
 	* 	MRes Thesis: Robustness Analysis of {Machine Learning}-Based And Hashes-Based Malware Detectors
 	*   Current Position: Founder, GovernSafe
    
+* Mahbub Islam (January 2023 -- January 2024), Macquarie University. 
+	* 	MRes Thesis: Membership Inference Via Backdooring In Image-Based Malware Classification
+
 * [I Wayan Budi Sentana](https://scholar.google.com/citations?hl=en&user=X-bsAP0AAAAJ&view_op=list_works&sortby=pubdate) (February 2020 -- December 2023), Macquarie University.
 	* 	PhD Thesis: Analysis and Design of Secure and Attack-Resilient Mechanisms for Online Platforms
  	* 	Current Position: Deputy Head of Information Technology Department, Politeknik Negeri Bali
