@@ -4,7 +4,7 @@ collection: teaching
 type: "Certification"
 permalink: /teaching/iatd-teaching
 venue: "Institute of Technology, Digital, TAFE Meadowbank"
-date: 2022
+date: 2020-02-15
 location: "Sydney, Australia"
 ---
 
