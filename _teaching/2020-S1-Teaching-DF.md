@@ -3,7 +3,7 @@ title: "COMP2310 – Digital Forensics"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2020-S1-Teaching-DF
-date: 2020-01-01
+date: 2020
 venue: "Macquarie University, School of Computing"
 location: "Sydney, Australia"
 ---
