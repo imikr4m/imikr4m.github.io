@@ -3,6 +3,7 @@ layout: archive
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+published: true
 ---
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
@@ -99,7 +100,7 @@ Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abd
 
 6.  <b>*[Incognito: A Method for Obfuscating Web Data](/files/Incognito-Ikram-WWW18.pdf)*</b><br>Rahat Masood, Dinusha Vatsalan, **Muhammad Ikram** and Mohamed Ali Kaafar<br> In **WWW**, 2018.<br>
 
-5.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](/files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transaction on Privacy and Security (TOPS)**, 2017.<br>
+5.  <b>*[Measuring, Characterizing, Detecting Facebook Like Farms](/files/fb_fraud_detection.pdf)*</b><br> <i>**Muhammad Ikram**</i>, Lucky Onwuzurike, Shehroze Farooqi, Emiliano De Cristofaro, Arik Friedman, Guillaume Jourjon, Mohamed Ali Kaafar and Zubair Shafiq <br>In **ACM Transactions on Privacy and Security (TOPS)**, 2017.<br>
 
 4.  <b>*[Characterizing Key Stakeholders in an Online Black-Hat Marketplace](https://arxiv.org/pdf/1505.01637)*</b><br>Farooqi, Shehroze, **Muhammad Ikram**, Guillaume Jourjon, Mohamed Ali Kaafar, Emiliano De Cristofaro, Zubair Shafiq, Arik Friedman, and Fareed Zaffar.<br>In **APWG Symposium on Electronic Crime Research (eCrime)**, 2017.<br>
 
