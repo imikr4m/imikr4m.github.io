@@ -203,7 +203,7 @@ defaults:
       comments: true
       share: true
       related: true
-  _pages
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -219,7 +219,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _publications
+  # _publications
   - scope:
       path: ""
       type: publications
