@@ -18,7 +18,7 @@ Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Hassan Asghar, Benjamin Zi
 
 29.  <b>[Unveiling Usability Challenges in Web Privacy Controls](/files/Web_Crawling_privacy-mq.pdf) </b> <br> 
 Rahat Masood, Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i> <br>
-<i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. [**Best Paper Award**](/files/wpes25-bp-award.jpeg)<br>
+<i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. ([**🏆 BEST PAPER AWARD**](/files/wpes25-bp-award.jpeg))<br>
 
 28.  <b>[Deception Meets Diagnostics: Deception-based Real-Time Threat Detection in Healthcare Web Systems](/files/RAID2025_DeceptiveNetworks_MQU.pdf) </b> <br> 
 Zeeshan Zulkifl, <i>**Muhammad Ikram**</i>, Hassan Asghar, Mohamed Ali Kaafar <br>
@@ -66,7 +66,7 @@ I Wayan Budi Sentana, <i>**Muhammad Ikram**</i>, Mohamed Ali Kaafar<br>
 
 16.  <b>[Longitudinal Compliance Analysis of Android Applications with Privacy Policies](/files/MobiQuitous2021_ikram.pdf)</b> <br> 
 Saad Sajid Hashmi, Nazar Waheed, Gioacchino Tangari, <i>**Muhammad Ikram**</i>, Stephen Smith<br>
-<i>In **Mobiquitous**</i>, 2021. ([**Outstanding Paper Award**](/files/OutstandingPaperAward.png))
+<i>In **Mobiquitous**</i>, 2021. ([**🏆 BEST PAPER AWARD**](/files/OutstandingPaperAward.png))
 <br>
 
 15.  <b>[Analyzing security issues of android mobile health and medical applications](/files/jamia_paper_accepted_version.pdf)</b> <br> 
@@ -95,7 +95,7 @@ Zhushou Tang, Ke Tang, Minhui Xue, Yuan Tian, Sen Chen, <i>**Muhammad Ikram**</i
 Reethika Ramesh, Ram Sundara Raman, Matthew Bernhard, Victor Ongkowijaya, Leonid Evdokimov, Anne Edmundson, Steven Sprecher, <i>**Muhammad Ikram**</i>, and Roya Ensafi <br> In **NDSS**, 2020. <br>
 
 9.  <b>*[A Decade of Mal-Activity Reporting: A Retrospective Analysis of Internet Malicious Activity Blacklists](/files/asiaccs_malwareanalysis.pdf)*</b><br>
-Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  ([**Best Paper Award**](/files/asiaccs2019.jpeg))<br>
+Benjamin Zi Hao Zhao, **Muhammad Ikram**, Hassan Asghar, Mohamed Ali Kaafar, Abdelberi Chaabane, and Kanchana Thilakarathna<br> In **AsiaCCS**, 2019.  ([**🏆 BEST PAPER AWARD**](/files/asiaccs2019.jpeg))<br>
 
 8.  <b>*[DaDiDroid: An Obfuscation Resilient Tool for Detecting Android Malware via Weighted Directed Call Graph Modelling](https://arxiv.org/pdf/1905.09136.pdf)*</b><br>
 **Muhammad Ikram**, Pierrick Beaume, Mohamed Ali Kaafar<br> In **Secrypt**, 2019. <br>
