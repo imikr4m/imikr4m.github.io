@@ -8,6 +8,10 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
+31.  <b>[TBTrackerX: Fantastic Trigger Bots and Where to Find Malicious Campaigns on X](/files/TriggerBotNDSS-preprint.pdf) </b> <br> 
+Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhare <br>
+<i>In the **Network and Distributed System Security (NDSS)**</i>, [https://www.ndss-symposium.org/ndss2026/](https://www.ndss-symposium.org/ndss2026/), 2026. <br>
+
 30.  <b>[Unsafe by Design? A First Look at Security and Privacy Risks in OpenAI’s Custom GPT Ecosystem](/files/Unpacking_the_Dynamics_of_Custom_GPTs_mq.pdf) </b> <br> 
 Sunday Oyinlola Ogundoyin, <i>**Muhammad Ikram**</i>, Hassan Asghar, Benjamin Zi Hao Zhao, Mohamed Ali Kaafar <br>
 <i>In the **24th Workshop on Privacy in the Electronic Society (WPES)**</i>, [http://jianying.space/WPES2025/](http://jianying.space/WPES2025/), 2025. <br>
