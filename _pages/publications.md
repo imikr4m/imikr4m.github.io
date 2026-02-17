@@ -8,7 +8,7 @@ published: true
 
 The following are some of my peer-reviewed publications. For proper citations (and a complete list) of my publications, please refer to [Google Scholar](https://scholar.google.com.au/citations?user=vkSaUFwAAAAJ&hl=en).
 
-31.  <b>[TBTrackerX: Fantastic Trigger Bots and Where to Find Malicious Campaigns on X](/files/TriggerBotNDSS-preprint.pdf) </b> <br> 
+31.  <b>[TBTrackerX: Fantastic Trigger Bots and Where to Find Malicious Campaigns on X](/files/TriggerBotNDSS-preprint-v1.pdf) </b> <br> 
 Mohammad Majid Akhtar, Rahat Masood, <i>**Muhammad Ikram**</i>, Salil S. Kanhare <br>
 <i>In the **Network and Distributed System Security (NDSS)**</i>, [https://www.ndss-symposium.org/ndss2026/](https://www.ndss-symposium.org/ndss2026/), 2026. <br>
 
